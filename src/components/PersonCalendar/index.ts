@@ -1,0 +1,1 @@
+export { PersonCalendarView } from './view'
